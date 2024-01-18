@@ -142,6 +142,8 @@ ul{
 }
 .nav_logo{
     color: var(--second-color);
+    font-weight: bold;
+
 }
 .nav_toggle{
     color: var(--second-color);
@@ -198,6 +200,9 @@ ul{
 }
 .home_img img{
     width: 100%;
+}
+.home_sub-title{
+    margin-top: -5%;
 }
 /*Buttons*/
 .button{
